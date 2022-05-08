@@ -16,6 +16,8 @@ h3 { font-size: 35px; color: #000052; }
 
 p { font-size: 20px; margin: 0; transform: translateY(50%); }
 
+a {font-size: 20px; color: #000052}
+
 #myCanvas {
   cursor: default;
   background-image: url('../imgs/8.png');
