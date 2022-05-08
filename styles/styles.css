@@ -10,9 +10,9 @@ html {
   cursor: default;
 }
 
-h1 { font-size: 130px; margin: 0; color: black;}
+h1 { font-size: 130px; margin: 0; color: #000052;}
 
-h3 { font-size: 35px; }
+h3 { font-size: 35px; color: #000052; }
 
 p { font-size: 20px; margin: 0; transform: translateY(50%); }
 
