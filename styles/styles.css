@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'FFF_Tusj';
+  font-family: 'FFF Tusj Bold';
   src: url('../fonts/FFF_Tusj.ttf');
 }
 
 html {
   background-color: #f7e56f;
   color: #f4f4f4;
-  font-family: FFF_Tusj;
+  font-family: FFF Tusj Bold;
   cursor: default;
 }
 
