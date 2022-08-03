@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'FFF Tusj Bold';
-  src: url('../fonts/FFF_Tusj.ttf');
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat-Regular.otf');
 }
 
 html {
   background-color: #83ed79;
   color: #f4f4f4;
-  font-family: FFF-Tusj-Bold;
+  font-family: Montserrat;
   cursor: default;
 }
 
