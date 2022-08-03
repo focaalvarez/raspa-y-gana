@@ -4,19 +4,19 @@
 }
 
 html {
-  background-color: #f7e56f;
+  background-color: #83ed79;
   color: #f4f4f4;
   font-family: FFF-Tusj-Bold;
   cursor: default;
 }
 
-h1 { font-size: 130px; margin: 0; color: #000052;}
+h1 { font-size: 130px; margin: 0; color: #152913;}
 
-h3 { font-size: 35px; color: #000052; }
+h3 { font-size: 35px; color: #152913; }
 
-p { font-size: 20px; margin: 0; transform: translateY(50%); }
+p { font-size: 20px; margin: 0; transform: translateY(50%); color: #152913 }
 
-a {font-size: 20px; color: #000052}
+a {font-size: 20px; color: #042c69}
 
 #myCanvas {
   cursor: default;
