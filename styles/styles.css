@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'LobsterTwo-Regular';
-  src: url('../fonts/LobsterTwo-Regular.otf');
+  font-family: 'FFF_Tusj';
+  src: url('../fonts/FFF_Tusj.ttf');
 }
 
 html {
   background-color: #f7e56f;
   color: #f4f4f4;
-  font-family: LobsterTwo-Regular;
+  font-family: FFF_Tusj;
   cursor: default;
 }
 
